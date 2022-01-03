@@ -261,7 +261,7 @@ __1. No One Is Crazy__
         1.  NOT Complacency.
     6.  Forecasts of outrageous optimism are rarely taken as seriously as prophets of doom.
     7.  Asymmetrical aversion to loss is an evolutionary shield.
-    9.  __Why Financial Pessimism Is More Common and More Persuasive than Optimism__
+    8.  __Why Financial Pessimism Is More Common and More Persuasive than Optimism__
         1.  Money is ubiquitous, so something bad happening tends to affect everyone and captures everyone's attention.
         2.  Pessimists extrapolate present trends without accounting for how markets adapt.
             1.  Iron Law in Economics: Extremely good and extremely bad circumstances rarely stay that way for long because supply and demand adapt in hard-to-predict ways.
