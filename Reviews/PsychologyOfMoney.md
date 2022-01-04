@@ -76,51 +76,51 @@ __Introduction__
 1. Doing well with money has little to do with how smart you are and a lot to do with how you behave.
 2. "History doesn't repeat itself, man does" - Voltaire.
 
-__1. No One Is Crazy__
-1. Your personal experiences with money make up maybe 0.0000000001% of what's happening in the world, but maybe 80% of how you think the world works.
-2. No amount of studying or open mindedness can genuinely recreate the power of fear and uncertainty. 
-3. We all think we know how the world works. But we've all only experienced a tiny sliver of it.
-4. Individual investors' willingness to bear risk depend on personal history.
+1. __ No One Is Crazy__
+   1. Your personal experiences with money make up maybe 0.0000000001% of what's happening in the world, but maybe 80% of how you think the world works.
+   2. No amount of studying or open mindedness can genuinely recreate the power of fear and uncertainty. 
+   3. We all think we know how the world works. But we've all only experienced a tiny sliver of it.
+   4. Individual investors' willingness to bear risk depend on personal history.
 
 2. __Luck and Risk__
-1. Nothing is as good or as bad as it seems.
-2. Luck and risk are siblings.
-3. Not all success is due to hard work and not all poverty is due to laziness.
-4. Focus less on specific individuals and case studies and more on broad patterns.
+   1. Nothing is as good or as bad as it seems.
+   2. Luck and risk are siblings.
+   3. Not all success is due to hard work and not all poverty is due to laziness.
+   4. Focus less on specific individuals and case studies and more on broad patterns.
 
 3. __Never Enough__
-1. There is no reason to risk what you have and need for what you don't have and don't need.
-2. Things to remember with Enough
-   1. The hardest financial skill is getting the goalpost to stop moving
+   1.  There is no reason to risk what you have and need for what you don't have and don't need.
+   2.  Things to remember with Enough
+   3. The hardest financial skill is getting the goalpost to stop moving
       1. You get into dangerous territory when teh taste of having more - power, money, prestige increases ambition faster than satisfaction.
       2. Social comparisons are the biggest problems.
          1. Don't try keeping up with the Joneses.
          2. It's a battle that can never be won, or that the only way to win is to not fight to begin with.
-3. Enough is not too little
-   1. Enough != Little.
-   2. Enough is not to have an insatiable appetite.
-4. There are many things never worth risking, no matter the potential gain
-   1. Reputation is invaluable.
-   2. Freedom and independence are invaluable.
-   3. Family and friends are invaluable.
-   4. Being loved by those who you want to love you is invaluable.
-   5. Happiness is invaluable.
+   4.  Enough is not too little
+   5. Enough != Little.
+   6. Enough is not to have an insatiable appetite.
+   7.  There are many things never worth risking, no matter the potential gain
+       1. Reputation is invaluable.
+       2. Freedom and independence are invaluable.
+       3.  Family and friends are invaluable.
+       4.  Being loved by those who you want to love you is invaluable.
+       5.  Happiness is invaluable.
 
-4. __Confounding Compounding__
-   1. $81.5 Billion of Warren Buffett's $84.5 Billion net worth came after his 65th birthday.
-   2. Our minds are not built to handle such absurdities.
-   3. How big something can grow from a relatively small change in conditions is amazing.
-   4. "It is not necessarily the amount of snow that causes ice sheets but the fact that snow, however little, lasts."
-   5. You don't need tremendous force to create tremendous results.
-   6. Warren Buffet's financial success can be tied to the financial base he built in his pubescent years and the longevity he maintained in his geriatric years.
-      1. His skill is investing, but his secret is time.
-   7. Compounding effect isn't intuitive as linear thinking is much more intuitive than exponential thinking.
-      1. You can never get accustomed to how quickly things grow.
-   8. There are many books on economic cycles, trading strategies and sector bets but the most powerful book should be called "Shut UP And WAIT!!"
-   9. Counterintuitiveness of compounding maybe responsible for the majority of disappointing trades, strategies and successful investing attempts.
-   10. __Good investing isn't necessarily about earning the highest returns, because the highest returns tend to be one-off hits that can't be repeated. It's about earning pretty good returns that you can stick with and which can be repeated for the longest period of time. That's when compounding runs wild.__
+4.  __Confounding Compounding__
+    1.  $81.5 Billion of Warren Buffett's $84.5 Billion net worth came after his 65th birthday.
+    2.  Our minds are not built to handle such absurdities.
+    3.  How big something can grow from a relatively small change in conditions is amazing.
+    4.  "It is not necessarily the amount of snow that causes ice sheets but the fact that snow, however little, lasts."
+    5.  You don't need tremendous force to create tremendous results.
+    6.  Warren Buffet's financial success can be tied to the financial base he built in his pubescent years and the longevity he maintained in his geriatric years.
+        1. His skill is investing, but his secret is time.
+    7.  Compounding effect isn't intuitive as linear thinking is much more intuitive than exponential thinking.
+        1. You can never get accustomed to how quickly things grow.
+    8.  There are many books on economic cycles, trading strategies and sector bets but the most powerful book should be called "Shut UP And WAIT!!"
+    9.  Counterintuitiveness of compounding maybe responsible for the majority of disappointing trades, strategies and successful investing attempts.
+    10. __Good investing isn't necessarily about earning the highest returns, because the highest returns tend to be one-off hits that can't be repeated. It's about earning pretty good returns that you can stick with and which can be repeated for the longest period of time. That's when compounding runs wild.__
 
-5. __Getting Wealth vs. Staying Wealthy__
+5.  __Getting Wealth vs. Staying Wealthy__
     1. Good investing isn't necessarily about making good decisions. It's about consistently not screwing up.
     2. There is one way to stay wealthy: some combination of frugality and paranoia.
     3. Money Success => SURVIVAL.
@@ -141,38 +141,38 @@ __1. No One Is Crazy__
        3. __A barbelled personality - optimistic about the future, but paranoid about what will prevent you from getting to the future is vital__
           1. You need short term paranoia to keep you alive long enough to exploit long-term optimism.
 
-6. __Tails, You Win__
-   1. You maybe wrong half the time and still make a fortune.
-   2. "I've been banging away at this thing for 30 years. I think the simple math is, some projects work and some don't. There's no reason to belabor either one. Just get on to the next." - Brad Pitt.
-   3. "A subset of the [art] collections turned out to be great investments, and they were held for a sufficiently long period of time to allow the portfolio return to converge upon the return of the best elements in the portfolio. That's all that happens.". - Art Collector
-      1. Index funds operate in a similar way.
-   4. A lot of things in business and investing work in the following way: Long tails - the farthest ends of a distribution of outcomes - have tremendous influence in finance, where a small number of events can account for the majority of outcomes.
-   5. We underestimate how normal it is for a lot of things fail.
-   6. Anything that's huge, profitable, famous or influential is the result of a tail event - an outlying one-in-thousands or millions events.
-   7. Tails drive everything!
-   8. "It's not whether you're right or wrong that's important but how much money you make when you're right and how much you lose when you're wrong" - George Soros.
+6.  __Tails, You Win__
+    1.  You maybe wrong half the time and still make a fortune.
+    2.  "I've been banging away at this thing for 30 years. I think the simple math is, some projects work and some don't. There's no reason to belabor either one. Just get on to the next." - Brad Pitt.
+    3.  "A subset of the [art] collections turned out to be great investments, and they were held for a sufficiently long period of time to allow the portfolio return to converge upon the return of the best elements in the portfolio. That's all that happens.". - Art Collector
+        1. Index funds operate in a similar way.
+    4.  A lot of things in business and investing work in the following way: Long tails - the farthest ends of a distribution of outcomes - have tremendous influence in finance, where a small number of events can account for the majority of outcomes.
+    5.  We underestimate how normal it is for a lot of things fail.
+    6.  Anything that's huge, profitable, famous or influential is the result of a tail event - an outlying one-in-thousands or millions events.
+    7.  Tails drive everything!
+    8.  "It's not whether you're right or wrong that's important but how much money you make when you're right and how much you lose when you're wrong" - George Soros.
    
-7. __Freedom__
-   1. Controlling your time is the highest dividend money pays.
-   2. The highest form of wealth is the ability to wake up every morning and say, "I can do whatever I want today.".
-   3. The most powerful common denominator of happiness is the __strong sense of controlling in one's life__.
-   4. Money's greatest intrinsic value is its ability to give you control over your time. 
-   5. Doing something you love on a schedule you can't control can feel the same as doing something you hate.
-      1. Reactance is the term in Psychology.
-      2. This stems from a lack of control.
-   6. Buying more stuff but giving up more control of your time is not a good trade off to have.
+7.  __Freedom__
+    1.  Controlling your time is the highest dividend money pays.
+    2.  The highest form of wealth is the ability to wake up every morning and say, "I can do whatever I want today.".
+    3.  The most powerful common denominator of happiness is the __strong sense of controlling in one's life__.
+    4.  Money's greatest intrinsic value is its ability to give you control over your time. 
+    5.  Doing something you love on a schedule you can't control can feel the same as doing something you hate.
+        1. Reactance is the term in Psychology.
+        2. This stems from a lack of control.
+    6.  Buying more stuff but giving up more control of your time is not a good trade off to have.
 
-8. __Man in the Car Paradox__
-   1. No one is impressed with your possessions as much as you are.
-   2. Paradox: people tend to want to signal to others that they should be liked and admired. But in reality those other people often bypass admiring you, not because they don't think wealth is admirable, but because they use your wealth as a benchmark for their own desire to be liked and admired.
-   3. People generally aspire to be respected and admired by others, and using money to buy fancy things may bring less of it than you imagine. 
-   4. If respect and admiration are your goal, be careful how you seek it - humility, kindness and empathy will bring you more respect than horsepower ever will.
+8.  __Man in the Car Paradox__
+    1.  No one is impressed with your possessions as much as you are.
+    2.  Paradox: people tend to want to signal to others that they should be liked and admired. But in reality those other people often bypass admiring you, not because they don't think wealth is admirable, but because they use your wealth as a benchmark for their own desire to be liked and admired.
+    3.  People generally aspire to be respected and admired by others, and using money to buy fancy things may bring less of it than you imagine. 
+    4.  If respect and admiration are your goal, be careful how you seek it - humility, kindness and empathy will bring you more respect than horsepower ever will.
    
-9. __Wealth is What You Don't See__
-   1.  Spending money to show people how much money you have is the fastest way to have less money.
-   2.  Wealth is financial assets that haven't yet been converted into the stuff you see.
-   3.  Wealth is hidden, it is income not spent. 
-   4.  It's hard for us to find wealthy role models because by definition wealth is hidden, hence, you don't know.
+9.  __Wealth is What You Don't See__
+    1.  Spending money to show people how much money you have is the fastest way to have less money.
+    2.  Wealth is financial assets that haven't yet been converted into the stuff you see.
+    3.  Wealth is hidden, it is income not spent. 
+    4.  It's hard for us to find wealthy role models because by definition wealth is hidden, hence, you don't know.
     
 10. __Save Money__
     1.  The only factor you can control generates one of the only things that matter i.e. saving money.
