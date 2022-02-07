@@ -8,9 +8,11 @@ Parmahansa Yogananda presents a rare account of his very unique life as an India
 
 ## My 411
 
-Autobiography of a Yogi is my favorite book of all time and I am happy to have finished my 11th annual pilgrimage to the mind of Parmahansa Yogananda. There is no other autobiography that makes me laugh as hard,  leaves me in goosebumps and a state of wonder - every other one wanes in comparison. Every single time I have read this book, there is a sense of peace during the hypnogogic state  each time I put the book down after my nightly reading as I drift off to a comfortable place. I learn something new from this book every time I read it - whether it is vocabulary or contextualization of the lessons based on my state of mind at the time. 
+Autobiography of a Yogi is my favorite book of all time and I am happy to have finished my 11th annual pilgrimage to the mind of Parmahansa Yogananda. There is no other autobiography that makes me laugh as hard,  leaves me in goosebumps and a state of wonder - every other one wanes in comparison. Every single time I have read this book at night, there is invariably a sense of peace that emanates I drift off to that familiar hypnogogic state. I learn something new from this book every time I read it - whether it is vocabulary or contextualization of the lessons based on my state of mind at the time.  
 
-I am incredibly lucky to have moved only a 20 minute drive from the Self Realization Center in Encinitas and today, 5th of March, I visited the meditation gardens. Perfect timing after finishing this book!
+Yogananda's life story is truly remarkable and the message is more pragmatic than preachy - (paraphrasing here) "Meditate and be happy!". My favorite parts of the book are the younger Yogananda's encounters with yogis performing miracles like it's going out of fashion; the child-like wonder with which these sections are written at always leave me in amazement. The interspersed chapters introducing the benefits of yoga and meditation appeal to my scientific bent of mind. Needless to say, this book has got me to meditate more with much more fervor than before.
+
+I am incredibly lucky to have moved only a 20 minute drive from the Self Realization Center in Encinitas and today, 5th of February, I visited the meditation gardens. Perfect timing after finishing this book! Here's a picture: 
 
 ![Meditation Gardens](Images/MeditationGardens.png)
 
@@ -100,6 +102,3 @@ I am incredibly lucky to have moved only a 20 minute drive from the Self Realiza
     1.  The technique includes the use of a certain mantra and a breathing exercise more difficult than the average person could perform. No medicine or magic is involved; nothing beyond the kria.
 74. A person who truly feels: ‘The world is my homeland’ will never lack scope for a useful and happy life.
 75. Man is a soul, not an institution; his inner reforms alone can lend permanence to outer ones.
-
-
-
